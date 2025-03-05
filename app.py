@@ -1,1 +1,4 @@
-print('Hola mundo')
+import time
+while 1:
+    time.sleep(2)
+    print('Hola mundo')
